@@ -12,6 +12,23 @@
     "image": "../images/gallery/page-transitions.jpg"
   },
   {
+    "title": "Michael Kenna",
+    "copy": "one of the most acclaimed landscape photographers英国摄影师，善用黑白",
+    "image": "../images/gallery/v2-9d813a2444c96571222808908d636ad6_720w.jpg"
+  },
+  {
+    "title": "Page Transitions",
+    "copy": "Component-based for easy usage.",
+    "image": "../images/gallery/page-transitions.jpg"
+  },
+              
+  {
+    "title": "Page Transitions",
+    "copy": "Component-based for easy usage.",
+    "image": "../images/gallery/page-transitions.jpg"
+  },
+              
+  {
     "title": "Intersection Observer",
     "copy": "Including a polyfill for Safari.",
     "image": "../images/gallery/intersection-observer.jpg"
